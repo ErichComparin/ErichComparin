@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**ErichComparin/ErichComparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Erich Comparin
 
-Here are some ideas to get you started:
+### Olá pessoal 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um programador interessado em desenvolver coisas no universo web💻 e mobile📱.
+
+🖥️ Desenvolvo sistemas web com GeneXus por 8+ anos, lidando também com PL/SQL, JavaScript, HTML5 e CSS3.
+
+🚀 Atualmente estou estudando ReactJS, React Native e NodeJS.
+
+🎓 Tenho como formação acadêmica bacharelado em Tecnologias Digitais (UCS) e MBA em Arquitetura de Aplicações Móveis (IGTI).
+
+✉️ Contato: erich.comparin@gmail.com
+
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erich.comparin@gmail.com)](mailto:erich.comparin@gmail.com)
