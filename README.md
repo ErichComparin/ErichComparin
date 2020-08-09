@@ -3,7 +3,7 @@
 
 ### Olá pessoal 👋
 
-Sou um programador interessado em desenvolver coisas no universo web💻 e mobile📱.
+Sou um programador interessado em desenvolver coisas para o universo web💻 e mobile📱.
 
 🖥️ Desenvolvo sistemas web com GeneXus por 8+ anos, lidando também com PL/SQL, JavaScript, HTML5 e CSS3.
 
