@@ -9,6 +9,6 @@ Sou um programador interessado em desenvolver coisas para o universo web💻 e m
 
 🚀 Atualmente estou estudando ReactJS, React Native e NodeJS.
 
-🎓 Tenho como formação acadêmica bacharelado em Tecnologias Digitais (UCS) e MBA em Arquitetura de Aplicações Móveis (IGTI).
+🎓 Tenho como formação acadêmica: Bacharelado em Tecnologias Digitais (UCS) e MBA em Arquitetura de Aplicações Móveis (IGTI).
 
 ✉️ Contato: [![Gmail Badge](https://img.shields.io/badge/-erich.comparin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erich.comparin@gmail.com)](mailto:erich.comparin@gmail.com) <erich.comparin@gmail.com>
