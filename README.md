@@ -14,4 +14,4 @@ Sou um programador interessado em desenvolver coisas para o universo web e mobil
 ✉️ Contato: erich.comparin@gmail.com
 
 [![Gmail Badge](https://img.shields.io/badge/-erich.comparin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erich.comparin@gmail.com)](mailto:erich.comparin@gmail.com)<br />
-[![Linkedin Badge](https://img.shields.io/badge/-Erich_Comparin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/erichcomparin)](www.linkedin.com/in/erichcomparin) 
+[![Linkedin Badge](https://img.shields.io/badge/-Erich_Comparin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/erichcomparin)](http://www.linkedin.com/in/erichcomparin) 
