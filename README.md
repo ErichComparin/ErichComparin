@@ -5,7 +5,7 @@
 
 Sou um programador interessado em desenvolver coisas para o universo web e mobile.
 
-🖥️ Desenvolvo sistemas web com GeneXus por 8+ anos, lidando também com PL/SQL, JavaScript, HTML5 e CSS3.
+🖥️ Desenvolvo sistemas web com GeneXus por 9+ anos, lidando também com PL/SQL, JavaScript, HTML5 e CSS3.
 
 🚀 Atualmente estou estudando ReactJS, React Native e NodeJS.
 
