@@ -3,7 +3,7 @@
 
 ### Olá pessoal 👋
 
-Sou um programador interessado em desenvolver coisas para o universo web e mobile.
+Sou um programador interessado em desenvolver soluções para o universo web e mobile.
 
 🖥️ Desenvolvedor de sistemas web por 10+ anos.
 
