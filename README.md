@@ -5,9 +5,7 @@
 
 Sou um programador interessado em desenvolver soluções para o universo web e mobile.
 
-🖥️ Desenvolvedor de sistemas web por 10+ anos.
-
-🚀 Atualmente aprimorando conhecimentos em ReactJS.
+🖥️ Desenvolvedor de sistemas web/mobile por 10+ anos.
 
 🎓 Tenho como formação acadêmica: Bacharelado em Tecnologias Digitais (UCS) e MBA em Arquitetura de Aplicações Móveis (IGTI).
 
